@@ -19,6 +19,7 @@ public class MainApplication extends MendixReactApplication {
     public boolean getUseDeveloperSupport() {
         return false;
     }
+    
 
     @Override
     public List<ReactPackage> getPackages() {
